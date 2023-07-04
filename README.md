@@ -1,2 +1,36 @@
-# youying
-夏令营优营通知
+## 23年计算机夏令营优营通知
+
+
+[入营人数：xx] [复旦大学大数据学院2023年全国优秀大学生夏令营活动入营名单](https://sds.fudan.edu.cn/bc/60/c17701a506976/page.htm)
+
+[截止：暂无] [复旦大学计算机科学技术学院2023年全国优秀大学生夏令营活动入围名单](https://cs.fudan.edu.cn/ba/14/c24277a506388/page.htm)
+
+
+
+
+
+### 收集计算机保研信息不易，大家帮忙点个star呗！
+
+**计算机保研交流一群：**  &nbsp; 1080150860（近2000人）  &nbsp; &nbsp;二群：731633297
+
+**微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
+
+**Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
+
+**小红书主页：**  &nbsp; [计算机保研信息平台](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
+
+**计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
+
+### 计算机保研交流一群：1080150860（近2000人）
+<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信5.jpg" width="80%">
+
+
+### 计算机保研各个高校面试资料领取（500多页）
+<figure class="half">
+    <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
+    <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/学校资料-2.pic.jpg" width="80%">
+</figure>
+
+### 计算机保研面试视频
+**哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)<br />
+![bilibili主页](https://github.com/jsjby/jsjby_2023/blob/main/images/B%E7%AB%99%E5%AE%A3%E4%BC%A0.png)
