@@ -21,6 +21,10 @@
 
 [优营人数：74] [北京大学智能学院2023年优秀大学生夏令营优秀营员名单](https://www.cis.pku.edu.cn/info/1034/2779.htm)
 
+[优营人数：144] [北京大学计算机学院2023年优秀大学生夏令营优秀营员名单](https://cs.pku.edu.cn/info/1023/4134.htm)
+
+[优营人数：45] [北京大学未来技术学院2023年全国优秀大学生夏令营优秀营员第一批名单](https://future.pku.edu.cn/xwzk/c8d806faa71b4205979aca49aba7e5ea.htm)
+
 [优营人数：35] [北京理工大学集成电路与电子学院2023年全国优秀大学生暑期夏令营优秀营员名单](https://ice.bit.edu.cn/xxfw/tzgg1/6bb55ff79eb74bc39ed96f9598031852.htm)
 
 [优营人数：2] [北航软件学院招收2024年研究生全国优秀大学生夏令营优秀营员名单（博士）](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10596)
@@ -84,6 +88,10 @@
 [优营人数：53] [北京电子科技学院2023年暑期夏令营优秀营员名单](https://www.besti.edu.cn/600/1767.html)
 
 [优营人数：32] [广州大学数学与信息科学学院2023年暑期夏令营“优秀营员”名单公示](http://maths.gzhu.edu.cn/info/1066/5036.htm)
+
+[优营人数：暂无] [大连理工大学电子信息与电气工程学部2024届优秀大学生学术夏令营面试成绩](http://ee.dlut.edu.cn/info/1028/8596.htm)
+
+[优营人数：暂无] [大连理工大学微电子学院2024年全国优秀大学生学术夏令营面试考核成绩](http://smedut.dlut.edu.cn/info/1034/6136.htm)
 
 
 
