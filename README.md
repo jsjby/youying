@@ -41,6 +41,8 @@
 
 [优营人数：10] [北航软件学院招收2024年研究生全国优秀大学生夏令营优秀营员名单（硕士）](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10595)
 
+[优营人数：30] [北京航空航天大学人工智能研究院招收2024年研究生全国优秀大学生夏令营活动优秀营员名单](https://iai.buaa.edu.cn/info/1024/2598.htm)
+
 [优营人数：88] [北京交通大学电气工程学院2023年暑期夏令营及校内选拔考核通过营员名单](http://ee.bjtu.edu.cn/tzgg/202303934.htm)
 
 [优营人数：37] [西北工业大学微电子学院暑期夏令营考核结果公示](https://weidianzi.nwpu.edu.cn/info/1132/3984.htm)
@@ -130,6 +132,8 @@
 [优营人数：32] [广州大学数学与信息科学学院2023年暑期夏令营“优秀营员”名单公示](http://maths.gzhu.edu.cn/info/1066/5036.htm)
 
 [优营人数：230] [北京工业大学信息学部2023年全国优秀大学生夏令营综合测评与考核结果公示](https://xxxb.bjut.edu.cn/info/1336/2878.htm)
+
+[优营人数：63] [合肥工业大学电气与自动化工程学院2023年优秀大学生夏令营优秀营员名单](http://ea.hfut.edu.cn/info/1004/3916.htm)
 
 
 
