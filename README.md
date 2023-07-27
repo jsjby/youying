@@ -51,6 +51,8 @@
 
 [优营人数：88] [北京交通大学电气工程学院2023年暑期夏令营及校内选拔考核通过营员名单](http://ee.bjtu.edu.cn/tzgg/202303934.htm)
 
+[优营人数：72] [北京交通大学计算机与信息技术学院2023年暑期夏令营考核通过营员名单](http://computer.bjtu.edu.cn/cms/item/5249.html)
+
 [优营人数：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营综合能力面试考核成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13195)
 
 [优营人数：37] [西北工业大学微电子学院暑期夏令营考核结果公示](https://weidianzi.nwpu.edu.cn/info/1132/3984.htm)
@@ -64,6 +66,8 @@
 [优营人数：20] [南开大学组合数学中心2023年夏令营优秀营员名单](http://cfc.nankai.edu.cn/2023/0707/c27446a516105/page.htm)
 
 [优营人数：104] [南开大学电子信息与光学工程学院2023“相约电光”夏令营优秀营员公示名单](https://ceo.nankai.edu.cn/info/1099/3796.htm)
+
+[优营人数：26] [南京大学现代生物研究院2023年优秀大学生夏令营优秀营员公示](https://imb.nju.edu.cn/yjyxw/20230726/i249362.html)
 
 [优营人数：42] [华东师范大学通信与电子工程学院2023年优秀大学生夏令营 “优秀营员”名单公示](http://www.cee.ecnu.edu.cn/0b/83/c4170a527235/page.htm)
 
@@ -100,6 +104,12 @@
 [优营人数：16] [中南大学大数据研究院“2023年优秀大学生暑期夏令营”优秀营员名单](https://bdi.csu.edu.cn/info/1063/3104.htm)
 
 [优营人数：169] [中南大学机电工程学院2023年暑期夏令营优秀营员名单公示](https://cmee.csu.edu.cn/info/1090/5425.htm)
+
+[优营人数：40] [中国人民大学高瓴人工智能学院2023年优秀大学生夏令营获奖名单](http://ai.ruc.edu.cn/newslist/notice/20230727002.html)
+
+[优营人数：77] [中国人民大学信息学院2023年优秀大学生夏令营获奖名单](http://info.ruc.edu.cn/xwgg/xygg/2aa7b7bcec7243c99c4e236602fb56e8.htm)
+
+[优营人数：82] [中国人民大学统计学院2023年全国优秀大学生夏令营优秀营员名单公示](http://stat.ruc.edu.cn/tzgg/d24465ce53374c2ba25d046047b9059b.htm)
 
 [优营人数：26] [中山大学人工智能学院关于2023年全国优秀大学生夏令营考核结果的公布](https://sai.sysu.edu.cn/teach/graduate/1409841.htm)
 
