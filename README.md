@@ -55,6 +55,8 @@
 
 [优营人数：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营综合能力面试考核成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13195)
 
+[优营人数：暂无] [国防科技大学电子对抗学院2023年优秀大学生夏令营面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13196)
+
 [优营人数：37] [西北工业大学微电子学院暑期夏令营考核结果公示](https://weidianzi.nwpu.edu.cn/info/1132/3984.htm)
 
 [优营人数：暂无] [西安交通大学电气工程学院夏令营优秀营员通知](http://ee.xjtu.edu.cn/info/1124/12002.htm)
