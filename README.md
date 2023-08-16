@@ -1,5 +1,8 @@
 ## 23年计算机夏令营优营通知
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
+</p>
 
 [优营人数：90] [天津大学电气自动化与信息工程学院2024级研究生招生夏令营合格名单](http://seea.tju.edu.cn/info/1031/3874.htm)
 
