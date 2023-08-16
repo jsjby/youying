@@ -62,6 +62,8 @@
 
 [优营人数：暂无] [国防科技大学电子对抗学院2023年优秀大学生夏令营面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13196)
 
+[优营人数：4] [国防科技大学电子对抗学院2023年优秀大学生暑期夏令营面试成绩（第二批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13211)
+
 [优营人数：暂无] [国防科技大学智能科学学院2023年优秀大学生夏令营（第二批）综合能力面试考核成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13199)
 
 [优营人数：37] [西北工业大学微电子学院暑期夏令营考核结果公示](https://weidianzi.nwpu.edu.cn/info/1132/3984.htm)
