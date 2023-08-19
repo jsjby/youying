@@ -4,6 +4,8 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
+[优营人数：180] [东南大学自动化学院2023年夏令营活动考核结果](https://automation.seu.edu.cn/2023/0819/c24460a456799/page.htm)
+
 [优营人数：90] [天津大学电气自动化与信息工程学院2024级研究生招生夏令营合格名单](http://seea.tju.edu.cn/info/1031/3874.htm)
 
 [优营人数：35] [天津大学佐治亚理工深圳学院2024级研究生招生夏令营合格营员名单公示](https://www.gtsi.edu.cn/node/4005)
