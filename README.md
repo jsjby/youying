@@ -76,6 +76,8 @@
 
 [优营人数：107] [国防科技大学前沿交叉学科学院2023 年优秀大学生夏令营优秀营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13216)
 
+[优营人数：102] [国防科技大学气象海洋学院 2023 年优秀大学生夏令营优秀营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13217)
+
 [优营人数：37] [西北工业大学微电子学院暑期夏令营考核结果公示](https://weidianzi.nwpu.edu.cn/info/1132/3984.htm)
 
 [优营人数：暂无] [西安交通大学电气工程学院夏令营优秀营员通知](http://ee.xjtu.edu.cn/info/1124/12002.htm)
@@ -107,6 +109,8 @@
 [优营人数：42] [华中科技大学网路空间安全学院2023年优秀大学生学术夏令营优秀营员公示](http://cse.hust.edu.cn/info/1079/3727.htm)
 
 [优营人数：56] [湖南大学物理与微电子科学学院暑期夏令营优营营员名单](http://spe.hnu.edu.cn/info/1083/8408.htm)
+
+[优营人数：暂无] [湖南大学电气与信息工程学院2023年优秀大学生暑期夏令营考核结果公示](http://eeit.hnu.edu.cn/info/1184/10244.htm)
 
 [优营人数：212] [湖南大学信息科学与工程学院2023年暑期夏令营优秀营员名单](http://csee.hnu.edu.cn/info/1062/12720.htm)
 
