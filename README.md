@@ -6,6 +6,8 @@
 
 [优营人数：180] [东南大学自动化学院2023年夏令营活动考核结果](https://automation.seu.edu.cn/2023/0819/c24460a456799/page.htm)
 
+[优营人数：9] [东南大学生物科学与医学工程学院电子信息专业2023年夏令营活动考核结果](https://bme.seu.edu.cn/2023/0830/c480a463104/page.htm)
+
 [优营人数：76] [东南大学软件学院2023年夏令营活动考核结果](https://cose.seu.edu.cn/2023/0826/c18017a457326/page.htm)
 
 [优营人数：61] [东南大学计算机科学与工程学院2023年推免预选拔考核结果](https://cse.seu.edu.cn/2023/0826/c22646a457322/page.htm)
@@ -79,6 +81,8 @@
 [优营人数：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营综合能力面试考核成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13195)
 
 [优营人数：暂无] [国防科技大学电子对抗学院2023年优秀大学生夏令营面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13196)
+
+[优营人数：88] [国防科技大学系统工程学院2023年优秀大学生夏令营优秀营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13224)
 
 [优营人数：4] [国防科技大学电子对抗学院2023年优秀大学生暑期夏令营面试成绩（第二批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13211)
 
