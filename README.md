@@ -4,7 +4,13 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
+[优营人数：84] [浙江大学计算机学院2023年暑期夏令营优秀营员拟录取名单公示](http://www.cs.zju.edu.cn/csen/2023/0901/c27011a2796672/page.htm)
+
 [优营人数：180] [东南大学自动化学院2023年夏令营活动考核结果](https://automation.seu.edu.cn/2023/0819/c24460a456799/page.htm)
+
+[优营人数：153] [东南大学仪器科学与工程学院2023年全国优秀大学生夏令营推免预选拔考核结果](https://ins.seu.edu.cn/2023/0901/c26759a463321/page.htm)
+
+[优营人数：81] [东南大学电子科学与工程学院2023夏令营暨2024预推免考核结果](https://electronic.seu.edu.cn/2023/0901/c11476a463362/page.htm)
 
 [优营人数：191] [东南大学网络空间安全学院2023年夏令营活动及推免生预选拔考核结果](https://cyber.seu.edu.cn/2023/0831/c18223a463225/page.htm)
 
