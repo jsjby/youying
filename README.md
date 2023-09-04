@@ -76,6 +76,8 @@
 
 [优营人数：45] [北京大学未来技术学院2023年全国优秀大学生夏令营优秀营员第一批名单](https://future.pku.edu.cn/xwzk/c8d806faa71b4205979aca49aba7e5ea.htm)
 
+[优营人数：45] [北京大学未来技术学院2023年全国优秀大学生夏令营优秀营员第二批名单](https://future.pku.edu.cn/xwzk/a20ae7bb6a8547398911b0f9127b0931.htm)
+
 [优营人数：35] [北京理工大学集成电路与电子学院2023年全国优秀大学生暑期夏令营优秀营员名单](https://ice.bit.edu.cn/xxfw/tzgg1/6bb55ff79eb74bc39ed96f9598031852.htm)
 
 [优营人数：2] [北航软件学院招收2024年研究生全国优秀大学生夏令营优秀营员名单（博士）](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10596)
