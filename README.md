@@ -234,6 +234,9 @@
 
 [优营人数：5] [对外经济贸易大学信息学院夏令营获得2024年推荐免试攻读硕士学位研究生候选人及直博生候选人资格名单公示](https://yjsy.uibe.edu.cn/cms/infoSingleArticle.do?articleId=7093&columnId=2398)
 
+[优营人数：7] [天津工业大学生命科学学院2024级研究生招生夏令营考核合格名单](https://sky.tiangong.edu.cn/2023/0911/c5121a87554/page.htm)
+
+
 
 
 
