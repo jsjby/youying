@@ -98,6 +98,8 @@
 
 [优营人数：72] [北京交通大学计算机与信息技术学院2023年暑期夏令营考核通过营员名单](http://computer.bjtu.edu.cn/cms/item/5249.html)
 
+[优营人数：129] [国防科技大学电子科学学院2023年优秀大学生夏令营优秀营员](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13338)
+
 [优营人数：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营综合能力面试考核成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13195)
 
 [优营人数：88] [国防科技大学系统工程学院2023年优秀大学生夏令营优秀营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13224)
