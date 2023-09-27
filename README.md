@@ -66,6 +66,8 @@
 
 [优营人数：120] [武汉大学遥感信息工程学院2023年优秀大学生暑期夏令营活动优秀营员名单公示](https://rsgis.whu.edu.cn/info/1083/87820.htm)
 
+[优营人数：73] [电子科技大学通信抗干扰全国重点实验室2024年接收优秀应届本科毕业生免试攻读研究生复试结果](https://www.ncl.uestc.edu.cn/info/1083/1895.htm)
+
 [优营人数：83] [电子科技大学计算机科学与工程学院（网络空间安全学院）2024年接收优秀应届本科毕业生免试攻读研究生面试结果](https://www.scse.uestc.edu.cn/info/1015/14299.htm)
 
 [优营人数：107] [电子科技大学计算机（网安）2023年全国优秀大学生暑期夏令营优秀营员考核结果公示](https://www.scse.uestc.edu.cn/info/1015/13960.htm)
@@ -94,6 +96,22 @@
 
 [优营人数：149] [北京交通大学交通运输学院2023年暑期夏令营优秀营员名单公示](http://trans.njtu.edu.cn/cms/item/2537.html)
 
+[优营人数：80] [北京交通大学软件学院2024年推免复试结果及拟录取工作重要事项说明](http://sse.bjtu.edu.cn/cms/item/964.html)
+
+[优营人数：42] [北京航空航天大学网络空间安全学院2024年推免研究生招生复试结果公示](https://cst.buaa.edu.cn/info/1062/3152.htm)
+
+[优营人数：2] [北京航空航天大学前沿院接收推荐免试攻读2024年研究生（含博士）复试结果公示](https://qyy.buaa.edu.cn/info/1415/5133.htm)
+
+[优营人数：4] [北京航空航天大学软件学院接收推荐免试攻读2024年博士研究生复试成绩及拟录取结果](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=10725)
+
+[优营人数：6] [北航软件学院接收推荐免试攻读2024年硕士（专业学位）研究生复试成绩及拟录取结果](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=10724)
+
+[优营人数：21] [北京航空航天大学电子信息工程学院2024年推免复试公示](http://www.ee.buaa.edu.cn/info/1062/17846.htm)
+
+[优营人数：53] [北京航空航天大学人工智能研究院招收推荐免试攻读2024年研究生（含博士）复试成绩及拟录取公示](https://iai.buaa.edu.cn/info/1024/2783.htm)
+
+[优营人数：104] [北京航空航天大学计算机学院接收2024年推荐免试研究生综合复试结果](https://scse.buaa.edu.cn/info/1099/10486.htm)
+
 [优营人数：2] [北航软件学院招收2024年研究生全国优秀大学生夏令营优秀营员名单（博士）](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10596)
 
 [优营人数：10] [北航软件学院招收2024年研究生全国优秀大学生夏令营优秀营员名单（硕士）](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10595)
@@ -103,6 +121,12 @@
 [优营人数：88] [北京交通大学电气工程学院2023年暑期夏令营及校内选拔考核通过营员名单](http://ee.bjtu.edu.cn/tzgg/202303934.htm)
 
 [优营人数：72] [北京交通大学计算机与信息技术学院2023年暑期夏令营考核通过营员名单](http://computer.bjtu.edu.cn/cms/item/5249.html)
+
+[优营人数：25] [国防科技大学智能科学学院接收2024级地方院校推荐免试硕士研究生（含直博生）综合面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13400)
+
+[优营人数：137] [国防科技大学电子科学学院接收2024级推免硕士生（含直博生）面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13406)
+
+[优营人数：61] [国防科技大学电子对抗学院2024年接收地方高校推荐免试面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13398)
 
 [优营人数：129] [国防科技大学电子科学学院2023年优秀大学生夏令营优秀营员](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13338)
 
@@ -125,6 +149,8 @@
 [优营人数：102] [国防科技大学气象海洋学院 2023 年优秀大学生夏令营优秀营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13217)
 
 [优营人数：37] [西北工业大学微电子学院暑期夏令营考核结果公示](https://weidianzi.nwpu.edu.cn/info/1132/3984.htm)
+
+[优营人数：70] [西安交通大学电信学部-电子科学与工程学院2024年预接收推免生名单公示](http://esteie.xjtu.edu.cn/info/1051/2683.htm)
 
 [优营人数：暂无] [西安交通大学电气工程学院夏令营优秀营员通知](http://ee.xjtu.edu.cn/info/1124/12002.htm)
 
@@ -161,6 +187,8 @@
 [优营人数：42] [华中科技大学网路空间安全学院2023年优秀大学生学术夏令营优秀营员公示](http://cse.hust.edu.cn/info/1079/3727.htm)
 
 [优营人数：11] [华中科技大学计算机科学与技术学院2023年暑期夏令营优秀营员名单](http://cs.hust.edu.cn/info/1439/3325.htm)
+
+[优营人数：26] [湖南大学半导体学院（集成电路学院）2024年预推免复试成绩公示（第二批）](http://sic.hnu.edu.cn/info/1115/1652.htm)
 
 [优营人数：56] [湖南大学物理与微电子科学学院暑期夏令营优营营员名单](http://spe.hnu.edu.cn/info/1083/8408.htm)
 
@@ -218,7 +246,11 @@
 
 [优营人数：暂无] [大连理工大学微电子学院2024年全国优秀大学生学术夏令营面试考核成绩](http://smedut.dlut.edu.cn/info/1034/6136.htm)
 
-[优营人数：暂无] [中国海洋大学信息科学与工程学部 “优秀大学生夏令营”综合考核结果公布](https://it.ouc.edu.cn/2023/0705/c21608a436990/page.ht)
+[优营人数：93] [中国农业大学信息与电气工程学院接收2024年推免生复试结果公示](http://ciee.cau.edu.cn/art/2023/9/27/art_26712_981781.html)
+
+[优营人数：暂无] [中国海洋大学信息学部2024年接收推荐免试和“创新人才计划”研究生综合考核结果公布](http://it.ouc.edu.cn/2023/0926/c21608a442740/page.htm)
+
+[优营人数：230] [中国海洋大学信息科学与工程学部 “优秀大学生夏令营”综合考核结果公布](https://it.ouc.edu.cn/2023/0705/c21608a436990/page.htm)
 
 [优营人数：262] [中国地质大学（武汉）地理与信息工程学院2023年第九届研招校园开放日活动合格名单](https://xgxy.cug.edu.cn/info/1023/5664.htm)
 
