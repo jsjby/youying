@@ -6,6 +6,12 @@
 
 [优营人数：84] [浙江大学计算机学院2023年暑期夏令营优秀营员拟录取名单公示](http://www.cs.zju.edu.cn/csen/2023/0901/c27011a2796672/page.htm)
 
+[优营人数：156] [同济大学电子与信息工程学院2024年推免研究生复试成绩公布](https://see.tongji.edu.cn/info/1147/11875.htm)
+
+[优营人数：51] [山东大学计算机学院2024年接收推荐免试硕士研究生和本科直博生拟录取专业公示](https://www.cs.sdu.edu.cn/info/1068/5987.htm)
+
+[优营人数：36] [山东大学网络空间安全学院2024年接收推荐免试研究生复试成绩公示](https://cst.qd.sdu.edu.cn/info/1023/2835.htm)
+
 [优营人数：158] [山东大学软件学院2024年接收推荐免试研究生复试成绩结果公示](https://www.sc.sdu.edu.cn/info/1019/4233.htm)
 
 [优营人数：32] [山东大学网络空间安全学院（研究院）2023年全国优秀大学生暑期夏令营优秀营员名单](https://cst.qd.sdu.edu.cn/info/1023/2815.htm)
@@ -121,6 +127,14 @@
 [优营人数：88] [北京交通大学电气工程学院2023年暑期夏令营及校内选拔考核通过营员名单](http://ee.bjtu.edu.cn/tzgg/202303934.htm)
 
 [优营人数：72] [北京交通大学计算机与信息技术学院2023年暑期夏令营考核通过营员名单](http://computer.bjtu.edu.cn/cms/item/5249.html)
+
+[优营人数：37] [国防科技大学前沿交叉学科学院2024级地方推荐免试硕士研究生（含直博生）复试面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13418)
+
+[优营人数：160] [国防科技大学系统工程学院接收2024级地方院校推荐免试硕士研究生（含直博）面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13413)
+
+[优营人数：2] [国防科技大学信息通信学院接收2024级地方院校推荐免试硕士研究生面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13411)
+
+[优营人数：160] [国防科技大学计算机学院2024年地方推免研究生面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13414)
 
 [优营人数：25] [国防科技大学智能科学学院接收2024级地方院校推荐免试硕士研究生（含直博生）综合面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13400)
 
