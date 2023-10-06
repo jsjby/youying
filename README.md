@@ -128,6 +128,8 @@
 
 [优营人数：72] [北京交通大学计算机与信息技术学院2023年暑期夏令营考核通过营员名单](http://computer.bjtu.edu.cn/cms/item/5249.html)
 
+[优营人数：6] [国防科技大学计算机学院2024级推荐免试硕士研究生（含直博生）第二轮复试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13420)
+
 [优营人数：37] [国防科技大学前沿交叉学科学院2024级地方推荐免试硕士研究生（含直博生）复试面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13418)
 
 [优营人数：160] [国防科技大学系统工程学院接收2024级地方院校推荐免试硕士研究生（含直博）面试成绩](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13413)
